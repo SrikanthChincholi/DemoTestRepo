@@ -5,12 +5,5 @@ public class App {
 
 		System.out.println("Stop printing Hello World these many times");
 		System.out.println("Stop printing Hello World these many times");
-		System.out.println("Stop printing Hello World these many times");
-		System.out.println("Stop printing Hello World these many times");
-		System.out.println("Stop printing Hello World these many times");
-		System.out.println("Stop printing Hello World these many times");
-		System.out.println("Stop printing Hello World these many times");
-		System.out.println("Stop printing Hello World these many times");
-
 	}
 }
